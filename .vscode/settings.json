@@ -1,0 +1,47 @@
+{
+    "editor.fontFamily": "UDEV Gothic 35JPDOC",
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+          {
+            "scope": "heading.1.markdown entity.name.section.markdown",
+            "settings": {
+              "foreground": "#4d85c3",
+              "fontStyle": "underline",
+            }
+          },
+          {
+            "scope": "heading.2.markdown entity.name.section.markdown",
+            "settings": {
+              "foreground": "#389674",
+              "fontStyle": "underline",
+            }
+          },
+          {
+            "scope": "heading.3.markdown entity.name.section.markdown",
+            "settings": {
+              "foreground": "#b0be1e",
+            }
+          },
+          {
+            "scope": "heading.4.markdown entity.name.section.markdown",
+            "settings": {
+              "foreground": "#8594c8",
+            }
+          },
+          {
+            "scope": "heading.5.markdown entity.name.section.markdown",
+            "settings": {
+              "foreground": "#f76328",
+            }
+          },
+          {
+            "scope": "heading.6.markdown entity.name.section.markdown",
+            "settings": {
+              "foreground": "#fccf3e",
+            }
+          },
+        ]
+      },
+    "terminal.integrated.fontFamily": "Menlo",
+}
